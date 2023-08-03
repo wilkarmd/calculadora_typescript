@@ -1,0 +1,6 @@
+npm init -y
+npm i typescript --save-dev
+npx tsc --version
+npx tsc --init
+npx tsc
+npx tsc --watch
